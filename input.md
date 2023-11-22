@@ -1,0 +1,40 @@
+- #[[cool_articles]]
+- https://evilmartians.com/chronicles/vite-lizing-rails-get-live-reload-and-hot-replacement-with-vite-ruby #vite [[Rails]]
+- https://www.rubyjobboard.com/blog/2022/07/13/six-amazing-ways-to-create-enumerated-types-in-rails-and-postgres  #enums [[Rails]]
+- https://levelup.gitconnected.com/the-best-engineers-think-like-investors-not-builders-cf005e75ab80 #ToRead
+- https://blog.appsignal.com/2022/08/10/a-deep-dive-into-memory-leaks-in-ruby.html Memory profiling
+- https://www.honeybadger.io/blog/a-rubyist-s-guide-to-big-o-notation Big-O Notation
+- https://ivoanjo.me/blog/2017/09/20/why-i-always-use-attr_reader-to-access-instance-variables/ instance variable
+- https://thoughtbot.com/blog/using-a-dependency-graph-to-visualize-rspec-let #rspec #visualization
+- https://www.bootrails.com/blog/ruby-multiline-string multiline
+- https://blog.appsignal.com/2023/03/29/diving-into-custom-exceptions-in-ruby.html Custom #exceptions #errors
+- https://www.hexdevs.com/posts/how-to-remove-dead-code-ruby/ #dead-code #On
+- https://railsatscale.com/2023-06-08-automatically-find-memory-leaks-in-native-gems/ #memory-leaks
+- https://evilmartians.com/chronicles/meet-yabeda-modular-framework-for-instrumenting-ruby-applications #metrics #open-telemetry
+- [https://arian-celina.com/how-to-deploy-a-rails-app-in-under-30-mins-and-less-than-5-per-month/](https://arian-celina.com/how-to-deploy-a-rails-app-in-under-30-mins-and-less-than-5-per-month/)  #kamal #Hetzner
+- https://dmitrytsepelev.dev/service-objects-anti-patterns
+- https://rubyhero.dev/rails-request-cycle
+- https://techcrunch.com/2023/06/02/sample-seed-pitch-deck-oii-ai/
+- https://dev.37signals.com/vanilla-rails-is-plenty/
+- https://www.shivamchahar.com/posts/rails-7.1-adds-responsive-images
+- https://monn.app/blog/deploying-ruby-on-rails-on-render-with-databse-redis-sidekiq-cron #render
+- https://rbates.dev/railscasts-retrospective-part-1-the-fuel
+- https://twitter.com/strzibnyj/status/1635265344318365696
+- [https://fly.io/ruby-dispatch/health-checks/](https://fly.io/ruby-dispatch/health-checks/)
+- https://rubyonrails.org/2023/2/20/amanda-perino-is-our-executive-director
+- https://evilmartians.com/chronicles/gemfile-of-dreams-libraries-we-use-to-build-rails-apps
+- https://shopify.engineering/ruby-rails-year-in-review-2022
+- https://www.bootrails.com/blog/ruby-multiline-string
+- https://www.rubycademy.com/cards/hash-and-fib
+- https://www.fastruby.io/blog/case-study/soundcloud-upgrades-monolithic-ruby-and-rails-system.html
+- https://noti.st/palkan/MeBUVe
+- https://blog.arkency.com/how-i-migrated-a-rails-app-from-webpack-to-esbuild-and-got-smaller-and-faster-js-builds/
+- https://newsletter.shortruby.com/p/edition-67
+- https://newsletter.shortruby.com/p/edition-66
+- https://newsletter.shortruby.com/p/edition-65
+- https://newsletter.shortruby.com/p/edition-64
+- https://newsletter.shortruby.com/p/edition-63
+- https://newsletter.shortruby.com/p/edition-62
+- https://newsletter.shortruby.com/p/edition-61
+- https://newsletter.shortruby.com/p/edition-60
+- https://newsletter.shortruby.com/p/edition-59
