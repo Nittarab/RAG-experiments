@@ -2,6 +2,8 @@
 
 > Disclaimer: this is a test repo, maybe it will be a real project in the future.
 
+> If you want to use a GPTs that use this output file as Knowledge Base, you can use [this Ruby and Rails Agent]( https://chat.openai.com/g/g-etPWtCOzj-senior-rails-and-ruby-engineer) I'm working on.
+
 This project contains scripts that automate the process of downloading web content from a list of URLs and compiling it into a single, usable HTML file.
 
 ## Description
